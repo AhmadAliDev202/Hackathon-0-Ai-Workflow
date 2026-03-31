@@ -1,0 +1,16 @@
+2026/03/31-15:22:23.541 4fa8 Reusing MANIFEST C:\Users\Ahmed\OneDrive\Documents\AI_Workflow_Vault\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/31-15:22:23.542 4fa8 Recovering log #167
+2026/03/31-15:22:23.603 4fa8 Reusing old log C:\Users\Ahmed\OneDrive\Documents\AI_Workflow_Vault\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000167.log 
+2026/03/31-15:22:26.687 4dc0 Level-0 table #178: started
+2026/03/31-15:22:26.756 4dc0 Level-0 table #178: 1102007 bytes OK
+2026/03/31-15:22:26.759 4dc0 Delete type=0 #167
+2026/03/31-15:22:26.841 4dc0 Compacting 1@1 + 7@2 files
+2026/03/31-15:22:27.043 4dc0 Generated table #179@1: 52873 keys, 2223773 bytes
+2026/03/31-15:22:27.116 4dc0 Generated table #180@1: 6173 keys, 2154001 bytes
+2026/03/31-15:22:27.210 4dc0 Generated table #181@1: 4965 keys, 2157922 bytes
+2026/03/31-15:22:27.365 4dc0 Generated table #182@1: 30062 keys, 2283436 bytes
+2026/03/31-15:22:27.563 4dc0 Generated table #183@1: 43397 keys, 2175604 bytes
+2026/03/31-15:22:28.021 4dc0 Generated table #184@1: 105370 keys, 2257163 bytes
+2026/03/31-15:22:28.046 4dc0 Generated table #185@1: 10443 keys, 330437 bytes
+2026/03/31-15:22:28.047 4dc0 Compacted 1@1 + 7@2 files => 13582336 bytes
+2026/03/31-15:22:28.048 4dc0 compacted to: files[ 0 0 7 0 0 0 0 ]
